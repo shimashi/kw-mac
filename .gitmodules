@@ -1,0 +1,3 @@
+[submodule "Installomator"]
+	path = Installomator
+	url = https://github.com/Installomator/Installomator.git
